@@ -1,6 +1,6 @@
 # QuizMaster
 
-<img src="images/QuizPhoto.png" alt="" width="200"/>
+<img src="images/QuizPhoto.jpg" alt="" width="200"/>
 
 **QuizMaster** is a console-based C++ application for creating and managing quizzes, inspired by platforms like **Kahoot**, **Quizizz**, and others.
 

@@ -1,5 +1,7 @@
 # QuizMaster
 
+<img src="images/sevenOfClubs.png" alt="" width="200"/>
+
 **QuizMaster** is a console-based C++ application for creating and managing quizzes, inspired by platforms like **Kahoot**, **Quizizz**, and others.
 
 ## Technologies & Concepts
